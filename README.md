@@ -1,1 +1,1 @@
-https://mikola1988.github.io/posmotri-v-okno-fd/
+https://github.com/Mikola1988/posmotri-v-okno-fd.git
