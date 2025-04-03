@@ -17,8 +17,7 @@ html {
   font-size: 18px;
   background-color: #1b1919;
   display: flex;
-  margin-top: 136px;
-  align-items: start;
+  align-items: center;
 }
 
 h1,
@@ -60,6 +59,7 @@ ol {
   align-items: stretch;
   gap: 30px;
   padding: 0 30px;
+  margin-bottom: 185px;
 }
 
 .result {
@@ -184,8 +184,8 @@ ol {
   text-decoration: none;
 }
 
-.content__card-link_current {
-  background: #1b1919;
+.content__card-link_current:active {
+  background: #545050;
 }
 
 .content__video-card-title {
